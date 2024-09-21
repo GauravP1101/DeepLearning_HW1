@@ -32,3 +32,6 @@ Required Python Packages:
 - numpy
 - sklearn (used only for PCA)
 - matplotlib
+
+Executing the codes:
+Open the relevant .ipynb file for each part of the assignment. Running the Tests To run the tests, simply execute the cells in the .ipynb file. The code will automatically download the MNIST dataset and train the neural network models.
