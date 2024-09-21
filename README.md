@@ -17,7 +17,7 @@ The three parts of HW1 are as follows:
    c) Flatness vs Generalization: 
       i) Developed two DNN models with identical architectures but different batch sizes (64 and 1000) and trained them on the MNIST dataset.
       ii) Trained five DNN models with different batch sizes (10, 385, 760, 1135, and 1510) using the MNIST dataset to explore how batch size affects generalization.
-
+	  
 Required Python Packages:
 - PyTorch
 - pandas
